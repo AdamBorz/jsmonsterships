@@ -1,2 +1,0 @@
-# jsmonsterships
-Created with CodeSandbox
